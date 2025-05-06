@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Yulia / Yuni 👋
 
-<!--
-**yuliaouyang/yuliaouyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌏 Self-taught Trilingual Developer (EN / 日本語 / 中文)  
+💻 I enjoy building clean and practical web applications.  
+🔧 Currently learning by building real-world projects, exploring both frontend and backend development.
 
-Here are some ideas to get you started:
+私は独学でプログラミングを学んでいる開発者で、シンプルで実用的なWebアプリを作るのが好きです。  
+現在は実際のプロジェクトを通して学習しながら、フロントエンドとバックエンドの両方に取り組んでいます。
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+| 🧭 Area       | 🚀 Technologies                                      |
+|--------------|------------------------------------------------------|
+| 🟨 JavaScript | ReactJS · NextJS · NodeJS                            |
+| 🌐 Web        | FantaCSS · Firebase · Git · AWS                      |
+| 🐍 Python     | Data analysis · API integration (requests) · Git     |
+| ☕ Java       | Java SE · Object-Oriented Programming (OOP)          |
+
+---
+
+## 🌱 Currently
+
+- 📚 Improving my full-stack skills  
+- 🧪 Building projects to strengthen my portfolio  
+- 🌍 Working in English · Japanese · Chinese
+
+---
+
+📌 *Feel free to check out my pinned projects!*
