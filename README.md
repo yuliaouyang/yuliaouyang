@@ -23,9 +23,9 @@
 
 ## 🌱 Currently
 
-- 📚 Improving my fullstack skills  
+- 📚 Improving my full-stack skills  
 - 🧪 Building projects to strengthen my portfolio  
-- 🌍 Working in English · Japanese · Chinese
+- 🌍 Working and Studying in English · Japanese · Chinese
 
 ---
 
