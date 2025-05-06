@@ -6,6 +6,8 @@
 
 私は独学でプログラミングを学んでいる開発者で、シンプルで実用的なWebアプリを作るのが好きです。  
 現在は実際のプロジェクトを通して学習しながら、フロントエンドとバックエンドの両方に取り組んでいます。
+
+
 ---
 
 ## 🛠 Tech Stack
@@ -21,7 +23,7 @@
 
 ## 🌱 Currently
 
-- 📚 Improving my full-stack skills  
+- 📚 Improving my fullstack skills  
 - 🧪 Building projects to strengthen my portfolio  
 - 🌍 Working in English · Japanese · Chinese
 
